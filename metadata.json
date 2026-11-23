@@ -1,0 +1,6 @@
+{
+  "name": "JJ LICITA — Painel de Gestão",
+  "description": "Painel de gestão comercial, construtor de funis, CRM, cadências, radar de editais e controle jurídico da JJ LICITA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

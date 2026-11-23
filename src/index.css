@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-sans: "Public Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-jj-navy: #0F2744;
+  --color-jj-navy-light: #1A3A63;
+  --color-jj-navy-deep: #091A2E;
+  --color-jj-action: #15803D;
+  --color-jj-action-hover: #166534;
+  --color-jj-canvas: #F6F8FB;
+  --color-jj-surface: #FFFFFF;
+  --color-jj-border: #E2E8F0;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #0F172A;
+    background-color: #F6F8FB;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  button, a, select, input, textarea {
+    outline-color: #0F2744;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

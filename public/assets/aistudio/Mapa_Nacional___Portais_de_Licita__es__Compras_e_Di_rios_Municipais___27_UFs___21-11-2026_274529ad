@@ -1,0 +1,177 @@
+BUSCADOR NACIONAL,,,Pesquisa integrada de portais oficiais municipais | 27 UFs,,,,,,,,,,
+OBJETIVO,,,"Encontre prefeituras, páginas de licitações e portais de compras. Fontes e status devem ser revalidados antes de decisões.",,,,,,,,,,
+STATUS DA EXECUÇÃO,,,BUSCA DE PORTAIS: ATIVA   ·   MONITORAMENTO AUTOMÁTICO DE EDITAIS: NÃO INSTALADO,,,,,,,,,,
+UF,,Município,,"Palavra, domínio, código ou observação",,Função do canal,,URL direta,,Perfil territorial,,Página,
+,Todas,,,,,,Todos,,Todos,,Todos,,1
+,,,,,,,,,,,,,
+TOTAL DE REGISTROS,5571,,URLS DIRETAS,40,,EVIDÊNCIAS,40,,CANAIS A REVALIDAR,7,,CANAIS EXTRAS,0
+COMO PESQUISAR,,,"Utilize os filtros na linha 5. Palavra-chave busca município, IBGE e observações. URL cadastrada não comprova certame aberto.",,,,,,,,,,
+PAGINAÇÃO,,,"A lista exibe até 150 linhas por página. Ajuste N5 para continuar. Para cada edital, confira anexos, prazo, órgão e sistema de lances.",,,,,,,,,,
+UF,Município,Código IBGE,URL de licitações,Prefeitura,Função do canal,Perfil territorial,Situação / validação,Evidência institucional,Data da consulta,Transparência,Diário da UF,Compras estadual,Status HTTP catálogo
+AC,Acrelândia,1200013,,https://www.acrelandia.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · fonte externa
+AC,Assis Brasil,1200054,,https://www.assisbrasil.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · fonte externa
+AC,Brasiléia,1200104,,https://www.brasileia.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Bujari,1200138,,https://www.bujari.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Capixaba,1200179,,https://www.capixaba.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Cruzeiro do Sul,1200203,,https://www.cruzeirodosul.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Epitaciolândia,1200252,,https://www.epitaciolandia.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Feijó,1200302,,https://www.feijo.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · Domínio gov.br · catálogo externo
+AC,Jordão,1200328,,https://www.jordao.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Mâncio Lima,1200336,,https://www.manciolima.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Manoel Urbano,1200344,,https://www.manoelurbano.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Marechal Thaumaturgo,1200351,,https://www.marechalthaumaturgo.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Plácido de Castro,1200385,,https://www.placidodecastro.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Porto Acre,1200807,,https://www.portoacre.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Porto Walter,1200393,,https://www.portowalter.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Rio Branco,1200401,https://www.riobranco.ac.gov.br/edital/,https://www.riobranco.ac.gov.br,Editais / divulgação,Capital,Fonte de consulta identificada; edital específico não verificado,https://www.riobranco.ac.gov.br/edital/,21/11/2026,,,https://licitacao.ac.gov.br/,erro · domínio gov.br · catálogo externo
+AC,Rodrigues Alves,1200427,,https://www.rodriguesalves.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Santa Rosa do Purus,1200435,,https://www.santarosadopurus.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Sena Madureira,1200500,,https://www.senamadureira.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Senador Guiomard,1200450,,https://www.senadorguiomard.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Tarauacá,1200609,,https://www.tarauaca.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AC,Xapuri,1200708,,https://www.xapuri.ac.gov.br,,,Licitação municipal não verificada,,,,,https://licitacao.ac.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Água Branca,2700102,,https://www.aguabranca.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Anadia,2700201,,https://www.anadia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Arapiraca,2700300,,https://www.arapiraca.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Atalaia,2700409,,https://www.atalaia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Barra de Santo Antônio,2700508,,https://www.barradesantoantonio.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Barra de São Miguel,2700607,,https://www.barradesaomiguel.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Batalha,2700706,,https://www.batalha.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · fonte externa
+AL,Belém,2700805,,https://www.belem.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Belo Monte,2700904,,https://www.belomonte.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Boca da Mata,2701001,,https://www.bocadamata.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Branquinha,2701100,,https://www.branquinha.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Cacimbinhas,2701209,,https://www.cacimbinhas.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Cajueiro,2701308,,https://www.cajueiro.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Campestre,2701357,,https://www.campestre.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Campo Alegre,2701407,,https://www.campoalegre.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Campo Grande,2701506,,https://www.campogrande.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · Domínio gov.br · catálogo externo
+AL,Canapi,2701605,,https://www.canapi.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Capela,2701704,,https://www.capela.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Carneiros,2701803,,https://www.carneiros.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Chã Preta,2701902,,https://www.chapreta.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Coité do Nóia,2702009,,https://www.coitedonoia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Colônia Leopoldina,2702108,,https://www.colonialeopoldina.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Coqueiro Seco,2702207,,https://www.coqueiroseco.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Coruripe,2702306,,https://www.coruripe.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Craíbas,2702355,,https://www.craibas.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Delmiro Gouveia,2702405,,https://www.delmirogouveia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Dois Riachos,2702504,,https://www.doisriachos.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Estrela de Alagoas,2702553,,https://www.estreladealagoas.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Feira Grande,2702603,,https://www.feiragrande.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Feliz Deserto,2702702,,https://www.felizdeserto.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Flexeiras,2702801,,https://www.flexeiras.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Girau do Ponciano,2702900,,https://www.giraudoponciano.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · Domínio gov.br · catálogo externo
+AL,Ibateguara,2703007,,https://www.ibateguara.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · Domínio gov.br · catálogo externo
+AL,Igaci,2703106,,https://www.igaci.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Igreja Nova,2703205,,https://www.igrejanova.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Inhapi,2703304,,https://www.inhapi.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Jacaré dos Homens,2703403,,https://www.jacaredoshomens.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Jacuípe,2703502,,https://jacuipe.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Japaratinga,2703601,,https://www.japaratinga.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Jaramataia,2703700,,https://www.jaramataia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Jequiá da Praia,2703759,,https://www.jequiadapraia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Joaquim Gomes,2703809,,https://www.joaquimgomes.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Jundiá,2703908,,https://www.jundia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Junqueiro,2704005,,https://www.junqueiro.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Lagoa da Canoa,2704104,,https://www.lagoadacanoa.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Limoeiro de Anadia,2704203,,https://www.limoeirodeanadia.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Maceió,2704302,https://www.licitacao.maceio.al.gov.br/,https://www.maceio.al.gov.br,Editais / divulgação,Capital,Fonte de consulta identificada; edital específico não verificado,https://www.licitacao.maceio.al.gov.br/,21/11/2026,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Major Isidoro,2704401,,https://www.majorisidoro.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Mar Vermelho,2704906,,https://www.marvermelho.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Maragogi,2704500,,https://www.maragogi.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Maravilha,2704609,,https://www.maravilha.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Marechal Deodoro,2704708,,https://www.marechaldeodoro.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Maribondo,2704807,,https://www.maribondo.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Mata Grande,2705002,,https://www.matagrande.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Matriz de Camaragibe,2705101,,https://www.matrizdecamaragibe.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Messias,2705200,,https://messias.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Minador do Negrão,2705309,,https://www.minadordonegrao.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Monteirópolis,2705408,,https://www.monteiropolis.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Murici,2705507,,https://www.murici.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Novo Lino,2705606,,https://www.novolino.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Olho d'Água das Flores,2705705,,https://www.olhodaguadasflores.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Olho d'Água do Casado,2705804,,https://www.olhodaguadocasado.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Olho d'Água Grande,2705903,,https://www.olhod'aguagrande.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Olivença,2706000,,https://www.olivenca.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Ouro Branco,2706109,,https://www.ourobranco.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Palestina,2706208,,https://www.palestina.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Palmeira dos Índios,2706307,,https://www.palmeiradosindios.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Pão de Açúcar,2706406,,https://www.paodeacucar.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Pariconha,2706422,,https://www.pariconha.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Paripueira,2706448,,https://www.paripueira.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Passo de Camaragibe,2706505,,https://www.passodecamaragibe.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Paulo Jacinto,2706604,,https://www.paulojacinto.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Penedo,2706703,,https://www.penedo.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Piaçabuçu,2706802,,https://www.piacabucu.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Pilar,2706901,,https://www.pilar.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Pindoba,2707008,,https://www.pindoba.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Piranhas,2707107,,https://www.piranhas.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Poço das Trincheiras,2707206,,https://www.pocodastrincheiras.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Porto Calvo,2707305,,https://www.portocalvo.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Porto de Pedras,2707404,,https://www.portodepedras.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Porto Real do Colégio,2707503,,https://www.portorealdocolegio.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Quebrangulo,2707602,,https://www.quebrangulo.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Rio Largo,2707701,,https://www.riolargo.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,erro · domínio gov.br · catálogo externo
+AL,Roteiro,2707800,,https://www.roteiro.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Santa Luzia do Norte,2707909,,https://www.santaluziadonorte.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Santana do Ipanema,2708006,,https://www.santanadoipanema.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Santana do Mundaú,2708105,,http://santanadomundau.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São Brás,2708204,,https://www.saobras.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São José da Laje,2708303,,https://www.saojosedalaje.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São José da Tapera,2708402,,https://www.saojosedatapera.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São Luís do Quitunde,2708501,,https://www.saoluisdoquitunde.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São Miguel dos Campos,2708600,,https://saomigueldoscampos.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São Miguel dos Milagres,2708709,,https://www.saomigueldosmilagres.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,São Sebastião,2708808,,https://www.saosebastiao.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Satuba,2708907,,https://www.satuba.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Senador Rui Palmeira,2708956,,https://www.senadorruipalmeira.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Tanque d'Arca,2709004,,https://www.tanquedarca.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Taquarana,2709103,,https://www.taquarana.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Teotônio Vilela,2709152,,https://www.teotoniovilela.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Traipu,2709202,,https://www.traipu.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,União dos Palmares,2709301,,https://www.uniaodospalmares.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AL,Viçosa,2709400,,https://www.vicosa.al.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/ama/,https://amgesp.al.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Amapá,1600105,,https://www.amapa.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · Domínio gov.br · fonte externa
+AP,Calçoene,1600204,,https://www.calcoene.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · Domínio gov.br · catálogo externo
+AP,Cutias,1600212,,https://www.cutias.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · Domínio gov.br · catálogo externo
+AP,Ferreira Gomes,1600238,,https://www.ferreiragomes.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · Domínio gov.br · catálogo externo
+AP,Itaubal,1600253,,https://www.itaubal.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Laranjal do Jari,1600279,,https://www.laranjaldojari.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Macapá,1600303,https://macapa.ap.gov.br/portaldatransparencia/licitacoes-dispensas-inexigibilidades-e-ata-de-adesao/,https://www.macapa.ap.gov.br,Transparência / consulta,Capital,Fonte de consulta identificada; edital específico não verificado,https://macapa.ap.gov.br/portaldatransparencia/licitacoes-dispensas-inexigibilidades-e-ata-de-adesao/,21/11/2026,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Mazagão,1600402,,https://www.mazagao.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Oiapoque,1600501,,https://www.oiapoque.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,erro · domínio gov.br · catálogo externo
+AP,Pedra Branca do Amapari,1600154,,https://www.pedrabrancadoamapari.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,erro · domínio gov.br · catálogo externo
+AP,Porto Grande,1600535,,https://portogrande.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Pracuúba,1600550,,https://www.pracuuba.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Santana,1600600,,https://www.santana.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,erro · domínio gov.br · catálogo externo
+AP,Serra do Navio,1600055,,https://www.serradonavio.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Tartarugalzinho,1600709,,https://www.tartarugalzinho.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AP,Vitória do Jari,1600808,,https://www.vitoriadojari.ap.gov.br,,,Licitação municipal não verificada,,,,https://ameap.ap.gov.br/diario-oficial,https://compras.portal.ap.gov.br/,ativo · domínio gov.br · catálogo externo
+AM,Alvarães,1300029,,https://www.alvaraes.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Amaturá,1300060,,https://www.amatura.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Anamã,1300086,,https://www.anama.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Anori,1300102,,https://www.anori.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,erro · Domínio gov.br · fonte externa
+AM,Apuí,1300144,,https://www.apui.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Atalaia do Norte,1300201,,https://www.atalaiadonorte.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Autazes,1300300,,https://www.autazes.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,erro · Domínio gov.br · fonte externa
+AM,Barcelos,1300409,,https://www.barcelos.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,erro · Domínio gov.br · fonte externa
+AM,Barreirinha,1300508,,https://www.barreirinha.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · fonte externa
+AM,Benjamin Constant,1300607,,https://www.benjaminconstant.am.gov.br,,,Licitação municipal não verificada,,,,https://www.diariomunicipal.com.br/aam/,https://www.e-compras.am.gov.br/,ativo · Domínio gov.br · catálogo externo
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+CANAIS ADICIONAIS,,,Outros portais oficiais por município (um município pode ter vários). Somente registros ATIVOS com evidência e aprovação aparecem abaixo.,,,,,,,,,,
+Portal ID,Código IBGE,UF,Município,URL do canal,Tipo,Órgão/operador,Evidência institucional,Confirmado em,Estado,Aprovado por,Aprovado em,URL anterior,Observações / rollback
+Nenhum canal extra aprovado para esses filtros.,,,,,,,,,,,,,
